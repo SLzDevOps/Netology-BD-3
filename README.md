@@ -1,10 +1,9 @@
-# Домашнее задание к занятию "`Работа с данными (DDL/DML)`" - `Фомичев Анатолий`
+# Домашнее задание к занятию "`SQL. Часть 1`" - `Фомичев Анатолий`
 
 ##Ссылка на ДЗ - https://github.com/netology-code/sdb-homeworks/blob/main/12-03.md
 
 
-### Задание 1
-### Задание 2
+### Задание 1 и 2
 
 ![alt text](https://github.com/SLzDevOps/Netology-BD-3/blob/main/Screenshot_503.png).
 
